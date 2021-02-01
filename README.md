@@ -9,7 +9,7 @@ and asks user input for statistical analysis of the customers
 
 FILE :
 bike_share.py
-
+.gitignore
 
 CREDITS : 
 
