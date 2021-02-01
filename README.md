@@ -20,4 +20,4 @@ Documentation
 This source code is used for getting input of city, month and day from user,
 Then the DataFrame created from .csv files to search for relevant city.
 
-Finally user can see types of customers and stations data and if wanted raw data also can be seen
+Finally user can see types of customers and stations data and if wanted raw data also can be seen. which gives overall understanding of data
