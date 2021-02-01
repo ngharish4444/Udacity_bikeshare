@@ -9,8 +9,8 @@ and asks user input for statistical analysis of the customers
 
 FILE :
 bike_share.py
-
-
+.gitignore
+readme file
 CREDITS : 
 
 I would like to thank udacity mentors as they given a better view of python & SQL classes also i would like to thank references of github and stack overflow web forms
