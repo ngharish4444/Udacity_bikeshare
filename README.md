@@ -9,10 +9,10 @@ and asks user input for statistical analysis of the customers
 
 FILE :
 bike_share.py
-### documentation merge
+### Documentation merge
 .gitignore
 readme file
-### documentation merge
+### Documentation merge
 CREDITS : 
 
 I would like to thank udacity mentors as they given a better view of python & SQL classes,
@@ -24,6 +24,6 @@ This source code is used for getting input of city, month and day from user,
 Then the DataFrame created from .csv files to search for relevant city.
 
 Finally user can see types of customers and stations data and if wanted raw data also can be seen.
-### refractor merge
+### Refractor merge
 which gives overall understanding of data
-### refractor merge
+### Refractor merge
